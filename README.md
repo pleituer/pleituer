@@ -5,11 +5,11 @@
   <image src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pleituer&label=Profile%20views&color=ce9927&style=flat" alt="pleituer" /> </p>
+  <p align="center"><a href=""><img alt="View counter" src="https://komarev.com/ghpvc/?username=pleituer&style=for-the-badge"></a></p>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;HKU+Student;Slacker;DS+|+AI+|+ML+Enthusiastic;Always+learning+new+things;Always+re-inventing+the+wheel&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;HKU+Student;Slacker;Likes+AI+and+Machiner+Learning;Focusing+on+Deep+learning;Always+learning+new+things;Always+re-inventing+the+wheel&center=true&width=380&height=45"></a>
 </p>
 
 <!-- Image from - https://www.facebook.com/EngineerFunnyTshirts/ -->
@@ -55,14 +55,22 @@ pleituer@github
 
 |                                                                     Pleituer's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Pleituer's github stats](https://github-readme-stats.vercel.app/api?username=pleituer&show_icons=true&theme=algolia)              | 
+| ![Pleituer's github stats](https://github-readme-stats.vercel.app/api?username=pleituer&show_icons=true&theme=algolia)              |
+| ![Pleituer's github streaks](https://github-readme-streak-stats.herokuapp.com/?user=pleituer&show_icons=true&theme=algolia)         |
     
 
 |                                                                                                      Pleituer's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=pleituer&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pleituer&langs_count=8&theme=algolia&layout=compact) |
 
+## Nice Repos
 
+<p>
+  <a href="https://github.com/pleituer/neuralNet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pleituer&repo=neuralNet&theme=algolia"/></a><br>
+  <a href="https://github.com/pleituer/Tic-Tac-Toe-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pleituer&repo=Tic-Tac-Toe-AI&theme=algolia"/></a><br>
+  <a href="https://github.com/pleituer/Calculus-Cheat-Sheet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pleituer&repo=Calculus-Cheat-Sheet&theme=algolia"/></a><br>
+  </p>
+  
 <!--
 **pleituer/pleituer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
