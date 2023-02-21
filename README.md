@@ -5,6 +5,8 @@
   <image src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pleituer&label=Profile%20views&color=ce9927&style=flat" alt="pleituer" /> </p>
+
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;HKU+Student;Slacker;DS+|+AI+|+ML+Enthusiastic;Always+learning+new+things;Always+re-inventing+the+wheel&center=true&width=380&height=45"></a>
