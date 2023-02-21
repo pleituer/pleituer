@@ -15,7 +15,7 @@
 <hr>
 
 ```
-I-am-pleituer@github
+pleituer@github
 ------------------------------------------------------------------
 💻 A Self-Taught Programmer
 📚 Currently Studying at The University of Hong Kong, BEng Year 1
