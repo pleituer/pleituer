@@ -25,7 +25,7 @@ pleituer@github
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Machine Learning stuff
 💖 Love Neural Networks
-🌟 Main languages: Python
+🌟 Main languages: Python (sorry there is only one)
 🎵 Fav music: Otherside (Minecraft)
 ```
 
