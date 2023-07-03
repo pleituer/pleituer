@@ -14,10 +14,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;HKU+Student;Slacker;Likes+AI+and+Machiner+Learning;Focusing+on+Deep+learning;Always+learning+new+things;Always+re-inventing+the+wheel&center=true&width=380&height=45"></a>
 </p>
 
-<!-- Image from - https://www.facebook.com/EngineerFunnyTshirts/ -->
-<image align="left" src="https://scontent-hkt1-2.xx.fbcdn.net/v/t39.30808-6/326706851_3425902967688574_743252961997797095_n.png?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=cvwBCOTOD4kAX9hA5Tj&_nc_ht=scontent-hkt1-2.xx&oh=00_AfA1MgDplChW9dQiOFLF-mWVy5hhX2hnZdfmrCaVx3nF3g&oe=63F93145" alt="Trust Me I'm an engineer" width="200"/>
-<hr>
-
 ```
 pleituer@github
 ------------------------------------------------------------------
