@@ -22,13 +22,12 @@
 pleituer@github
 ------------------------------------------------------------------
 💻 A Self-Taught Programmer
-📚 Currently Studying at The University of Hong Kong, BEng Year 1
+📚 Currently Studying at The University of Hong Kong, BEng(DS&E) Year 2
 📝 Doing Challenge: Tryin Not to Die
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Machine Learning stuff
 💖 Love Neural Networks
-🌟 Main languages: Python (sorry there is only one)
-🎵 Fav music: Otherside (Minecraft) & lofi music
+🌟 Main languages: Python (sorry there its the only one)
 ```
 
 <hr>
