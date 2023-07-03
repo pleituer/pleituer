@@ -44,10 +44,11 @@ pleituer@github
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/-keras-black?logo=keras&style=dev"></a>
+    <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/-pytorch-black?logo=pytorch&style=dev"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/-numpy-black?logo=numpy&style=dev"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/-pandas-black?logo=pandas&style=dev"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/-tensorflow-black?logo=tensorflow&style=dev"></a>
+    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/-keras-black?logo=keras&style=dev"></a>
     <a hred="#"><img alt="Scipy" src="https://img.shields.io/badge/-scipy-black?logo=scipy&style=dev"></a>
 </p>
 
