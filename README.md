@@ -19,10 +19,10 @@ pleituer@github
 💻 A Self-Taught Programmer
 📚 Currently Studying at The University of Hong Kong, BEng(DS&E) Year 2
 📝 Doing Challenge: Tryin Not to Die
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Machine Learning stuff
+🔭 Working on random projects
+🌱 Learning Math & Stat
 💖 Love Neural Networks
-🌟 Main languages: Python (sorry there its the only one)
+🌟 Main languages: Python
 ```
 
 <hr>
@@ -48,13 +48,6 @@ pleituer@github
 </p>
 
 ## GitHub Stats
-
-
-|                                                                     Pleituer's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Pleituer's github stats](https://github-readme-stats.vercel.app/api?username=pleituer&show_icons=true&theme=algolia)              |
-| ![Pleituer's github streaks](https://github-readme-streak-stats.herokuapp.com/?user=pleituer&show_icons=true&theme=algolia)         |
-    
 
 |                                                                                                      Pleituer's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
