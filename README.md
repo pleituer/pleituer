@@ -3,8 +3,7 @@
 <!-- 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 -->
 
 <h1 align='center'>
-  Hi, I'm Pleituer
-  <image src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  Hi, I'm Pleituer :D
 </h1>
 
   <p align="center"><a href="#"><img alt="View counter" src="https://komarev.com/ghpvc/?username=pleituer&style=for-the-badge&label=Viewer+Count"></a></p>
