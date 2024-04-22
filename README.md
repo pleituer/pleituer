@@ -59,6 +59,7 @@ pleituer@github
 
 <p>
   <a href="https://github.com/pleituer/neuralNet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pleituer&repo=neuralNet&theme=algolia"/></a><br>
+  <a href="https://github.com/pleituer/COMP3314-Asm3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pleituer&repo=COMP3314-Asm3&theme=algolia"/></a><br>
   <a href="https://github.com/pleituer/Tic-Tac-Toe-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pleituer&repo=Tic-Tac-Toe-AI&theme=algolia"/></a><br>
   <a href="https://github.com/pleituer/Calculus-Cheat-Sheet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pleituer&repo=Calculus-Cheat-Sheet&theme=algolia"/></a><br>
 </p>
