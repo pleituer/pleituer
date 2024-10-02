@@ -2,13 +2,19 @@
 
 <!-- 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 -->
 
+<h1 align="center">:P</h1>
+
+<!--
 <h1 align='center'>
   Hi, I'm Pleituer :D
 </h1>
 
   <p align="center"><a href="#"><img alt="View counter" src="https://komarev.com/ghpvc/?username=pleituer&style=for-the-badge&label=Viewer+Count"></a></p>
+-->
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
+<!--
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;HKU+Student;Slacker;Likes+AI+and+Machiner+Learning;Focusing+on+Deep+learning;Always+learning+new+things;Always+re-inventing+the+wheel&center=true&width=380&height=45"></a>
 </p>
@@ -63,6 +69,7 @@ pleituer@github
   <a href="https://github.com/pleituer/Tic-Tac-Toe-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pleituer&repo=Tic-Tac-Toe-AI&theme=algolia"/></a><br>
   <a href="https://github.com/pleituer/Calculus-Cheat-Sheet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pleituer&repo=Calculus-Cheat-Sheet&theme=algolia"/></a><br>
 </p>
+-->
   
 <!--
 **pleituer/pleituer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
